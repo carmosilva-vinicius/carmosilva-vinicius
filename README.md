@@ -21,7 +21,7 @@ Engenheiro Mecatrônico em busca de atuar e empreender solucionando problemas co
  ![Github](https://img.shields.io/badge/-Github-05122A?style=flat&logo=Github)
  ![Linux](https://img.shields.io/badge/-Linux-05122A?style=flat&logo=Linux)
  
- - 🌱 Aprendendo:
+ - Aprendendo:
  
  ![OpenCV](https://img.shields.io/badge/OpenCV-27338e?style=for-the-badge&logo=OpenCV&logoColor=white)
  ![Power BI](https://img.shields.io/badge/-Power%20BI-05122A?style=flat&logo=Power-BI)
