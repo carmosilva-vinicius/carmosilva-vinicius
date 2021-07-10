@@ -7,7 +7,7 @@ Engenheiro Mecatrônico em busca de atuar e empreender solucionando problemas co
 
 ## 🛠 Ferramentas e Habilidades
 
- ![R](https://img.shields.io/badge/-R-black?style=flat-square&logo=R
+ ![R](https://img.shields.io/badge/-R-black?style=flat-square&logo=R)
  ![Python](https://img.shields.io/badge/-Python-black?style=flat-square&logo=Python)
  ![Pandas](https://img.shields.io/badge/-Pandas-black?style=flat-square&logo=Pandas)
  ![Numpy](https://img.shields.io/badge/-Numpy-black?style=flat-square&logo=Numpy)
