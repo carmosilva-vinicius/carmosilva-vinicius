@@ -27,3 +27,9 @@ Engenheiro Mecatrônico em busca de atuar e empreender solucionando problemas co
  ![Power BI](https://img.shields.io/badge/-Power%20BI-05122A?style=flat&logo=Power-BI)
  ![NodeJs](https://img.shields.io/badge/Node.js-05122A?style=flat&logo=nodedotjs&logoColor=white)
  
+<br>
+<br>
+<br>
+
+### 📊 Portifólio de Ciência de Dados
+[![Vinicius Portifolio](https://github-readme-stats.vercel.app/api/pin/?username=carmosilva-vinicius&repo=carmosilva-vinicius&theme=dark)](https://github.com/carmosilva-vinicius/carmosilva-vinicius)
