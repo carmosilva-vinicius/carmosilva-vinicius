@@ -20,7 +20,7 @@ Engenheiro Mecatrônico em busca de atuar e empreender solucionando problemas co
  <img src="https://img.shields.io/badge/Microsoft_Excel-05122A?style=flat&logo=microsoft-excel&logoColor=white" />
  ![Git](https://img.shields.io/badge/-Git-05122A?style=flat&logo=Git)
  ![Github](https://img.shields.io/badge/-Github-05122A?style=flat&logo=Github)
- <img src="https://img.shields.io/badge/firebase-ffca28?style=for-the-badge&logo=firebase&logoColor=black" />
+ <img src="https://img.shields.io/badge/firebase-05122A?style=flat&logo=firebase&logoColor=white" />
  
  🌱 Aprendendo:
  
