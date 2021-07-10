@@ -19,13 +19,16 @@ Engenheiro Mecatrônico em busca de atuar e empreender solucionando problemas co
  ![Git](https://img.shields.io/badge/-Git-05122A?style=flat&logo=Git)
  ![Github](https://img.shields.io/badge/-Github-05122A?style=flat&logo=Github)
  ![Linux](https://img.shields.io/badge/-Linux-05122A?style=flat&logo=Linux)
- <img src="https://img.shields.io/badge/JavaScript-05122A?style=flat&logo=javascript&logoColor=white" />
+ <img src="https://img.shields.io/badge/firebase-ffca28?style=for-the-badge&logo=firebase&logoColor=black" />
  <img src="https://img.shields.io/badge/C-05122A?style=flat&logo=c&logoColor=white" />
- 
+  <img src="https://img.shields.io/badge/Microsoft_Excel-217346?style=for-the-badge&logo=microsoft-excel&logoColor=white" />
+
+
  🌱 Aprendendo:
  
  ![OpenCV](https://img.shields.io/badge/OpenCV-05122A?style=flat&logo=OpenCV&logoColor=white)
  ![Power BI](https://img.shields.io/badge/-Power%20BI-05122A?style=flat&logo=Power-BI)
+ <img src="https://img.shields.io/badge/JavaScript-05122A?style=flat&logo=javascript&logoColor=white" />
  ![NodeJs](https://img.shields.io/badge/Node.js-05122A?style=flat&logo=nodedotjs&logoColor=white)
  
 <br>
