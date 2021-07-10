@@ -37,5 +37,8 @@ Engenheiro Mecatrônico em busca de atuar e empreender solucionando problemas co
 
 ### 📫 Como me encontrar:
 [![Linkedin](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/viniciussilva0//)](https://www.linkedin.com/in/viniciussilva0/)
-[![Gmail](https://img.shields.io/badge/-Gmail-red?style=flat-square&logo=Gmail&logoColor=white&link=mailto:carmosilva.vinicius@gmail.com)](mailto:carmosilva.vinicius@gmail.com)
-<img src="{https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white}" />
+
+[![Gmail](https://img.shields.io/badge/-Gmail-red?style=flat-square&logo=Gmail&logoColor=white&link=mailto:carmosilva.vinicius@gmail.com)](mailto:carmosilva.vinicius@gmail.com) : carmosilva.vinicius@gmail.com
+
+[![WhatsApp](https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white)](mailto:16992506770) : 995595d9
+
