@@ -23,7 +23,7 @@ Engenheiro Mecatrônico em busca de atuar e empreender solucionando problemas co
  
  🌱 Aprendendo:
  
- ![OpenCV](https://img.shields.io/badge/OpenCV-05122A?style=for-the-badge&logo=OpenCV&logoColor=white)
+ ![OpenCV](https://img.shields.io/badge/OpenCV-05122A?style=flat&logo=OpenCV&logoColor=white)
  ![Power BI](https://img.shields.io/badge/-Power%20BI-05122A?style=flat&logo=Power-BI)
- ![NodeJs](https://img.shields.io/badge/Node.js-05122A?style=for-the-badge&logo=nodedotjs&logoColor=white)
+ ![NodeJs](https://img.shields.io/badge/Node.js-05122A?style=flat&logo=nodedotjs&logoColor=white)
  
