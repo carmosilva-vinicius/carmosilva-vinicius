@@ -1,3 +1,6 @@
 # Vinícius Henrique do Carmo da Silva
-[![Linkedin Bade](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/viniciussilva0//)](https://www.linkedin.com/in/viniciussilva0/)
-[![Gmail Badge](https://img.shields.io/badge/-Gmail-red?style=flat-square&logo=Gmail&logoColor=white&link=carmosilva.vinicius@gmail.com)](carmosilva.vinicius@gmail.com)
+[![Linkedin](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/viniciussilva0//)](https://www.linkedin.com/in/viniciussilva0/)
+
+<br> 
+<br>
+Engenheiro Mecatrônico em busca de atuar e empreender solucionando problemas com **Ciência de dados**. Possuo experiêcia com desenvolvimento de aplicações, mineração de dados, estruturação de bancos de dados, coleta de dados e estatística. Além disso tenho o desenvolvimento de modelos matemáticos e a área de finanças quantitativas como interesses pessoais.
