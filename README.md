@@ -10,20 +10,18 @@ Engenheiro Mecatrônico em busca de atuar e empreender solucionando problemas co
 ## 🛠 Ferramentas e Habilidades
 
  ![R](https://img.shields.io/badge/-R-05122A?style=flat&logo=R)
+ <img src="https://img.shields.io/badge/C-05122A?style=flat&logo=c&logoColor=white" />
  ![Python](https://img.shields.io/badge/-Python-05122A?style=flat&logo=Python)
  ![Pandas](https://img.shields.io/badge/-Pandas-05122A?style=flat&logo=Pandas)
  ![Numpy](https://img.shields.io/badge/-Numpy-05122A?style=flat&logo=Numpy)
  ![Scikit Learn](https://img.shields.io/badge/-Scikit%20Learn-05122A?style=flat&logo=scikit-learn)
  ![Jupyter](https://img.shields.io/badge/-Jupyter-05122A?style=flat&logo=Jupyter)
  ![VS Code](https://img.shields.io/badge/-VS%20Code-05122A?style=flat&logo=visual-studio-code)
+ <img src="https://img.shields.io/badge/Microsoft_Excel-05122A?style=flat&logo=microsoft-excel&logoColor=white" />
  ![Git](https://img.shields.io/badge/-Git-05122A?style=flat&logo=Git)
  ![Github](https://img.shields.io/badge/-Github-05122A?style=flat&logo=Github)
- ![Linux](https://img.shields.io/badge/-Linux-05122A?style=flat&logo=Linux)
  <img src="https://img.shields.io/badge/firebase-ffca28?style=for-the-badge&logo=firebase&logoColor=black" />
- <img src="https://img.shields.io/badge/C-05122A?style=flat&logo=c&logoColor=white" />
-  <img src="https://img.shields.io/badge/Microsoft_Excel-217346?style=for-the-badge&logo=microsoft-excel&logoColor=white" />
-
-
+ 
  🌱 Aprendendo:
  
  ![OpenCV](https://img.shields.io/badge/OpenCV-05122A?style=flat&logo=OpenCV&logoColor=white)
