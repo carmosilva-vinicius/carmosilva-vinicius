@@ -1,5 +1,4 @@
 # Vinícius Henrique do Carmo da Silva
-[![Linkedin](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/viniciussilva0//)](https://www.linkedin.com/in/viniciussilva0/)
 
 <br>
 
@@ -29,7 +28,14 @@ Engenheiro Mecatrônico em busca de atuar e empreender solucionando problemas co
  
 <br>
 <br>
-<br>
 
 ### 📊 Portifólio de Ciência de Dados
 [![Vinicius Portifolio](https://github-readme-stats.vercel.app/api/pin/?username=carmosilva-vinicius&repo=carmosilva-vinicius&theme=dark)](https://github.com/carmosilva-vinicius/carmosilva-vinicius)
+
+<br>
+<br>
+
+### 📫 Como me encontrar:
+[![Linkedin](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/viniciussilva0//)](https://www.linkedin.com/in/viniciussilva0/)
+[![Gmail](https://img.shields.io/badge/-Gmail-red?style=flat-square&logo=Gmail&logoColor=white&link=mailto:carmosilva.vinicius@gmail.com)](mailto:carmosilva.vinicius@gmail.com)
+<img src="{https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white}" />
