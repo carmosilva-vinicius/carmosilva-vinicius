@@ -19,6 +19,7 @@ Engenheiro Mecatrônico em busca de atuar e empreender solucionando problemas co
  ![Git](https://img.shields.io/badge/-Git-05122A?style=flat&logo=Git)
  ![Github](https://img.shields.io/badge/-Github-05122A?style=flat&logo=Github)
  ![Linux](https://img.shields.io/badge/-Linux-05122A?style=flat&logo=Linux)
+ <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" />
  
  🌱 Aprendendo:
  
