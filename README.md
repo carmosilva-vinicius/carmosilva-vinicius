@@ -33,7 +33,7 @@ Engenheiro Mecatrônico em busca de atuar e empreender solucionando problemas co
 <br>
 
 ### 📊 Portfólio de Ciência de Dados
-[![Vinicius Portifolio](https://github-readme-stats.vercel.app/api/pin/?username=carmosilva-vinicius&repo=portifolio&theme=dark)](https://github.com/carmosilva-vinicius/portifolio)
+[![Vinicius Portifolio](https://github-readme-stats.vercel.app/api/pin/?username=carmosilva-vinicius&repo=Portfolio&theme=dark)](https://github.com/carmosilva-vinicius/portfolio)
 
 <br>
 <br>
