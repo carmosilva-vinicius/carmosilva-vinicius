@@ -2,7 +2,7 @@
 
 <br>
 
-Engenheiro Mecatrônico em busca de atuar e empreender solucionando problemas com **Ciência de Dados**. Possuo experiêcia com desenvolvimento de aplicações, mineração de dados, estruturação de bancos de dados, coleta de dados e estatística. Além disso tenho o desenvolvimento de modelos matemáticos e a área de finanças quantitativas como interesses pessoais.
+Engenheiro Mecatrônico, desenvolvedor e programador de embarcados para **Tecnologia Agrícola**. Possuo experiêcia com projeto de sitemas embarcados e microcontrolados, desenvolvimento de aplicações, mineração de dados, coleta de dados e estatística. Além disso tenho o desenvolvimento de modelos matemáticos e a área de finanças quantitativas como interesses pessoais.
 
 <br>
 <br>
