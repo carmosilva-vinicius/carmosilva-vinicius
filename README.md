@@ -18,17 +18,17 @@ Engenheiro Mecatrônico, desenvolvedor e programador de embarcados para **Tecnol
  ![Scikit Learn](https://img.shields.io/badge/-Scikit%20Learn-05122A?style=flat&logo=scikit-learn)
  ![Jupyter](https://img.shields.io/badge/-Jupyter-05122A?style=flat&logo=Jupyter)
  ![VS Code](https://img.shields.io/badge/-VS%20Code-05122A?style=flat&logo=visual-studio-code)
- <img src="https://img.shields.io/badge/Microsoft_Excel-05122A?style=flat&logo=microsoft-excel&logoColor=white" />
  ![Git](https://img.shields.io/badge/-Git-05122A?style=flat&logo=Git)
  ![Github](https://img.shields.io/badge/-Github-05122A?style=flat&logo=Github)
- <img src="https://img.shields.io/badge/firebase-05122A?style=flat&logo=firebase&logoColor=white" />
+ ![Latex](https://img.shields.io/badge/LaTeX-05122A?style=flat&logo=LaTeX)
  
  🌱 Aprendendo:
  
- ![OpenCV](https://img.shields.io/badge/OpenCV-05122A?style=flat&logo=OpenCV&logoColor=white)
- ![Power BI](https://img.shields.io/badge/-Power%20BI-05122A?style=flat&logo=Power-BI)
+ ![React Native](https://img.shields.io/badge/React_Native-05122A?style=flat&logo=react&logoColor=61DAFB)
  <img src="https://img.shields.io/badge/JavaScript-05122A?style=flat&logo=javascript&logoColor=white" />
  ![NodeJs](https://img.shields.io/badge/Node.js-05122A?style=flat&logo=nodedotjs&logoColor=white)
+ ![OpenCV](https://img.shields.io/badge/OpenCV-05122A?style=flat&logo=OpenCV&logoColor=white)
+ ![Power BI](https://img.shields.io/badge/-Power%20BI-05122A?style=flat&logo=Power-BI)
  
 <br>
 <br>
