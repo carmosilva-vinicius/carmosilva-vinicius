@@ -10,8 +10,8 @@ Engenheiro Mecatrônico, desenvolvedor e programador de embarcados para **Tecnol
 ## 🛠 Ferramentas e Habilidades
 
  <img src="https://img.shields.io/badge/C-05122A?style=flat&logo=c&logoColor=white" />
- ![R](https://img.shields.io/badge/C-05122A?style=flat&logo=c)
- ![R](https://img.shields.io/badge/-R-05122A?style=flat&logo=R)
+ ![C](https://img.shields.io/badge/C-05122A?style=flat&logo=c)
+ ![a](https://img.shields.io/badge/-R-05122A?style=flat&logo=R)
  ![R](https://img.shields.io/badge/-R-05122A?style=flat&logo=R)
  ![Python](https://img.shields.io/badge/-Python-05122A?style=flat&logo=Python)
  ![Pandas](https://img.shields.io/badge/-Pandas-05122A?style=flat&logo=Pandas)
