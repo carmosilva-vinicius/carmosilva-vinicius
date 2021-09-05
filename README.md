@@ -9,15 +9,16 @@ Engenheiro Mecatrônico, desenvolvedor e programador de embarcados para **Tecnol
 
 ## 🛠 Ferramentas e Habilidades
 
- ![C](https://img.shields.io/badge/-R-05122A?style=flat&logo=c)
- ![Cpp](https://img.shields.io/badge/C%2B%2B-05122A?style=flat&logo=c%2B%2B)
- ![R](https://img.shields.io/badge/-R-05122A?style=flat&logo=R)
- ![Python](https://img.shields.io/badge/-Python-05122A?style=flat&logo=Python)
+ ![C](https://img.shields.io/badge/-R-05122A?style=flat&logo=c&logoColor=00599C)
+ ![Cpp](https://img.shields.io/badge/C%2B%2B-05122A?style=flat&logo=c%2B%2B&logoColor=00599C)
+ ![R](https://img.shields.io/badge/-R-05122A?style=flat&logo=R&logoColor=276DC3)
+ ![Python](https://img.shields.io/badge/-Python-05122A?style=flat&logo=Python&logoColor=FFD43B)
  ![Pandas](https://img.shields.io/badge/-Pandas-05122A?style=flat&logo=Pandas)
  ![Numpy](https://img.shields.io/badge/-Numpy-05122A?style=flat&logo=Numpy)
  ![Scikit Learn](https://img.shields.io/badge/-Scikit%20Learn-05122A?style=flat&logo=scikit-learn)
+ ![Conda](https://img.shields.io/badge/conda-05122A?style=flat.svg?&style=for-the-badge&logo=anaconda&logoColor=342B029)
  ![Jupyter](https://img.shields.io/badge/-Jupyter-05122A?style=flat&logo=Jupyter)
- ![VS Code](https://img.shields.io/badge/-VS%20Code-05122A?style=flat&logo=visual-studio-code)
+ ![VS Code](https://img.shields.io/badge/-VS%20Code-05122A?style=flat&logo=visual-studio-code&logoColor=0078D4)
  ![Git](https://img.shields.io/badge/-Git-05122A?style=flat&logo=Git)
  ![Github](https://img.shields.io/badge/-Github-05122A?style=flat&logo=Github)
  ![Latex](https://img.shields.io/badge/LaTeX-05122A?style=flat&logo=LaTeX)
@@ -25,8 +26,8 @@ Engenheiro Mecatrônico, desenvolvedor e programador de embarcados para **Tecnol
  🌱 Aprendendo:
  
  ![React Native](https://img.shields.io/badge/React_Native-05122A?style=flat&logo=react&logoColor=61DAFB)
- <img src="https://img.shields.io/badge/JavaScript-05122A?style=flat&logo=javascript&logoColor=white" />
- ![NodeJs](https://img.shields.io/badge/Node.js-05122A?style=flat&logo=nodedotjs&logoColor=white)
+ ![Java Script](https://img.shields.io/badge/JavaScript-05122A?style=flat&logo=javascript&logoColor=F7DF1E)
+ ![NodeJs](https://img.shields.io/badge/Node.js-05122A?style=flat&logo=nodedotjs&logoColor=339933)
  ![OpenCV](https://img.shields.io/badge/OpenCV-05122A?style=flat&logo=OpenCV&logoColor=white)
  ![Power BI](https://img.shields.io/badge/-Power%20BI-05122A?style=flat&logo=Power-BI)
  
