@@ -33,6 +33,7 @@ Engenheiro Mecatrônico, desenvolvedor e programador de embarcados para **Tecnol
  
 <br>
 <br>
+![Vinicius's Language stats](https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=carmosilva-vinicius&layout=compact&langs_count=8&hide_border=true)
 
 ### 📊 Portfólio de Ciência de Dados
 [![Vinicius Portifolio](https://github-readme-stats.vercel.app/api/pin/?username=carmosilva-vinicius&repo=Portfolio&theme=dark)](https://github.com/carmosilva-vinicius/portfolio)
