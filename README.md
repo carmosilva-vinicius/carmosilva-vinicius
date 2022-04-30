@@ -2,7 +2,7 @@
 
 <br>
 
-Engenheiro Mecatrônico, desenvolvedor e programador de embarcados para **Tecnologia Agrícola**. Possuo experiêcia com projeto de sitemas embarcados e microcontrolados, desenvolvimento de aplicações, mineração de dados, coleta de dados e estatística. Além disso tenho o desenvolvimento de modelos matemáticos e a área de finanças quantitativas como interesses pessoais.
+Engenheiro Mecatrônico, desenvolvedor de  hardware e software embarcados. Atualmente atua com projetos de soluções pra **Agricultura de Precisão**. Tenho conhecimento no desenvolvimento de aplicações WEB, mobile e desktop, além de possuir o desenvolvimento de modelos matemáticos para finanças quantitativas como hobby.
 
 <br>
 <br>
